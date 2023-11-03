@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MCD_Voltmeter")(type "KiCad")(uri "${KIPRJMOD}/MCD_Voltmeter.pretty")(options "")(descr ""))
+)
